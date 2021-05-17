@@ -32,7 +32,7 @@ setup(
     ),
     author='Thomas J. Lux',
     author_email='tlux14@googlemail.com',
-    url='https://github.com/maddonix/ukw-intelli-store',
+    url='https://github.com/Maddonix/ukw-intelli-store',
     packages=find_packages('src'),
     package_dir={'': 'src'},
     py_modules=[splitext(basename(path))[0] for path in glob('src/*.py')],
@@ -64,7 +64,7 @@ setup(
     project_urls={
         'Documentation': 'https://ukw-intelli-store.readthedocs.io/',
         'Changelog': 'https://ukw-intelli-store.readthedocs.io/en/latest/changelog.html',
-        'Issue Tracker': 'https://github.com/maddonix/ukw-intelli-store/issues',
+        'Issue Tracker': 'https://github.com/Maddonix/ukw-intelli-store/issues',
     },
     keywords=[
         # eg: 'keyword1', 'keyword2', 'keyword3',
@@ -75,6 +75,7 @@ setup(
         "pandas",
         "numpy",
         "openpyxl",
+        "xlrd"
     ],
     extras_require={
         # eg:

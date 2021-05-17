@@ -25,8 +25,8 @@ version = release = '0.0.0'
 pygments_style = 'trac'
 templates_path = ['.']
 extlinks = {
-    'issue': ('https://github.com/maddonix/ukw-intelli-store/issues/%s', '#'),
-    'pr': ('https://github.com/maddonix/ukw-intelli-store/pull/%s', 'PR #'),
+    'issue': ('https://github.com/Maddonix/ukw-intelli-store/issues/%s', '#'),
+    'pr': ('https://github.com/Maddonix/ukw-intelli-store/pull/%s', 'PR #'),
 }
 # on_rtd is whether we are on readthedocs.org
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'

@@ -20,24 +20,24 @@ Overview
     :target: https://ukw-intelli-store.readthedocs.io/
     :alt: Documentation Status
 
-.. |travis| image:: https://api.travis-ci.com/maddonix/ukw-intelli-store.svg?branch=master
+.. |travis| image:: https://api.travis-ci.com/Maddonix/ukw-intelli-store.svg?branch=master
     :alt: Travis-CI Build Status
-    :target: https://travis-ci.com/github/maddonix/ukw-intelli-store
+    :target: https://travis-ci.com/github/Maddonix/ukw-intelli-store
 
-.. |requires| image:: https://requires.io/github/maddonix/ukw-intelli-store/requirements.svg?branch=master
+.. |requires| image:: https://requires.io/github/Maddonix/ukw-intelli-store/requirements.svg?branch=master
     :alt: Requirements Status
-    :target: https://requires.io/github/maddonix/ukw-intelli-store/requirements/?branch=master
+    :target: https://requires.io/github/Maddonix/ukw-intelli-store/requirements/?branch=master
 
-.. |codecov| image:: https://codecov.io/gh/maddonix/ukw-intelli-store/branch/master/graphs/badge.svg?branch=master
+.. |codecov| image:: https://codecov.io/gh/Maddonix/ukw-intelli-store/branch/master/graphs/badge.svg?branch=master
     :alt: Coverage Status
-    :target: https://codecov.io/github/maddonix/ukw-intelli-store
+    :target: https://codecov.io/github/Maddonix/ukw-intelli-store
 
 .. |codacy| image:: https://img.shields.io/codacy/grade/8711a53d3cb049f88c2b87b70c1a6dbb.svg
-    :target: https://www.codacy.com/app/maddonix/ukw-intelli-store
+    :target: https://www.codacy.com/app/Maddonix/ukw-intelli-store
     :alt: Codacy Code Quality Status
 
-.. |codeclimate| image:: https://codeclimate.com/github/maddonix/ukw-intelli-store/badges/gpa.svg
-   :target: https://codeclimate.com/github/maddonix/ukw-intelli-store
+.. |codeclimate| image:: https://codeclimate.com/github/Maddonix/ukw-intelli-store/badges/gpa.svg
+   :target: https://codeclimate.com/github/Maddonix/ukw-intelli-store
    :alt: CodeClimate Quality Status
 
 .. |version| image:: https://img.shields.io/pypi/v/ukw-intelli-store.svg
@@ -56,14 +56,14 @@ Overview
     :alt: Supported implementations
     :target: https://pypi.org/project/ukw-intelli-store
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/maddonix/ukw-intelli-store/v0.0.0.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/Maddonix/ukw-intelli-store/v0.0.0.svg
     :alt: Commits since latest release
-    :target: https://github.com/maddonix/ukw-intelli-store/compare/v0.0.0...master
+    :target: https://github.com/Maddonix/ukw-intelli-store/compare/v0.0.0...master
 
 
-.. |scrutinizer| image:: https://img.shields.io/scrutinizer/quality/g/maddonix/ukw-intelli-store/master.svg
+.. |scrutinizer| image:: https://img.shields.io/scrutinizer/quality/g/Maddonix/ukw-intelli-store/master.svg
     :alt: Scrutinizer Status
-    :target: https://scrutinizer-ci.com/g/maddonix/ukw-intelli-store/
+    :target: https://scrutinizer-ci.com/g/Maddonix/ukw-intelli-store/
 
 
 .. end-badges
@@ -81,7 +81,7 @@ Installation
 
 You can also install the in-development version with::
 
-    pip install https://github.com/maddonix/ukw-intelli-store/archive/master.zip
+    pip install https://github.com/Maddonix/ukw-intelli-store/archive/master.zip
 
 
 Documentation
